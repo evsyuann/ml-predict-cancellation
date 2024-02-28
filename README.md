@@ -1,4 +1,5 @@
 # Hotel Reservation Cancellation Prediction
-In this small project I tried to implement a machine learning model to predict whether a hotel reservation is likely to be canceled or not based on previous reservation data.
 
-I compared Logistic Regression model and Random Forest model to find better accuracy. The difference wasnt so big, its just 0.75(Regr) vs 0.81(RForest).
+While studying machine learning, I completed the following project. In this small project I tried to create a model to predict if a hotel reservation would be canceled based on past reservation data. I used tools like pandas and scikit-learn.
+
+To find the best accuracy, I compared a Logistic Regression model with a Random Forest model. The difference was around 0.75 for Logistic Regression versus 0.81 for Random Forest.
